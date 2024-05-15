@@ -1,1 +1,5 @@
-# smartmind
+# Memory_Game
+
+Just a learning part, if love to play games...
+Click here.... https://anchalbhoite.github.io/memory_game/
+Test your memory, till what level you are able to memorize the pattern...
